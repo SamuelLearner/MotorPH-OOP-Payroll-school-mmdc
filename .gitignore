@@ -1,0 +1,35 @@
+# Compiled class files
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Python artifacts (not part of Java project)
+__pycache__/
+*.pyc
+
+# Temporary/development files
+*.tmp
+*.bak
+*.log
+pdf_contents.txt
+remaining_pdfs.txt
+data_repo.txt
+read_pdfs.py
+
+# Non-project folders
+Their Website/
+.github/
+.gemini/
